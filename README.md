@@ -1,8 +1,14 @@
 # Continuous Intelligence and Interactive Analytics - Reactive Apps
 
-- Interactive app: [cintel-04-reactive](https://denisecase.shinyapps.io/cintel-04-reactive/)
-- Repository: [cintel-04-reactive](https://github.com/denisecase/cintel-04-reactive)
-- Author: [Denise Case](https://github.com/denisecase)
+- Interactive app: [cintel-04-reactive](https://accoffin12.shinyapps.io/cintel-04-reactive/)
+- Repository: [cintel-04-reactive](https://github.com/accoffin12/cintel-04-reactive)
+- Author: [Alexandra Coffin](https://github.com/accoffin12)
+
+-----
+
+# Repository Overview:
+
+This repository is a project for Course 44630-80, the instructions below are geared toward the exploration of applications created with Shiny.io. To complete this specific assignment students were tasked with creating filters to allow users to manipulate data. 
 
 -----
 
