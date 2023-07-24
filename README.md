@@ -8,7 +8,7 @@
 
 # Repository Overview:
 
-This repository is a project for Course 44630-80, the instructions below are geared toward the exploration of applications created with Shiny.io. To complete this specific assignment students were tasked with creating filters to allow users to manipulate data. 
+This repository is a project for Course 44630-80, the instructions below are geared toward the exploration of applications created with Shiny.io. To complete this specific assignment students were tasked with creating filters to allow users to manipulate data. All of the data was provided to us in the initial repo. 
 
 -----
 
